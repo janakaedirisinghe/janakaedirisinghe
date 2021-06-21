@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janaka Edirisinghe</h1>
-<h5 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h5 align="center">A passionate full-stack developer from 🇱🇰</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
