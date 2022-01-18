@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin](https://user-images.githubusercontent.com/1297371/111899029-73c1a300-8a32-11eb-9825-d09e68039ff1.png)](https://www.linkedin.com/in/janaka531/)
+
+[![Linkedin](https://img.shields.io/badge/connect%20on-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/janaka531/)
+[![Portfolio](https://img.shields.io/badge/appwrite.io-f02e65?style=flat-square)](https://janakaedirisinghe.github.io/)
+
