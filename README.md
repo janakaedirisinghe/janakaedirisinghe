@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 -->
 
 [![Linkedin](https://img.shields.io/badge/connect%20on-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/janaka531/)
-[![Portfolio](https://img.shields.io/badge/appwrite.io-f02e65?style=flat-square)](https://janakaedirisinghe.github.io/)
+[![Portfolio](https://img.shields.io/badge/portfolio-f02e65?style=flat-square)](https://janakaedirisinghe.github.io/)
 
