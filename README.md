@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin](https://user-images.githubusercontent.com/1297371/111899029-73c1a300-8a32-11eb-9825-d09e68039ff1.png)](https://www.linkedin.com/in/janaka531/)
+[![Linkedin](https://scontent.fcmb3-2.fna.fbcdn.net/v/t31.18172-8/13719527_309036009439205_8965699163693411860_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHLgKeUZnY_p6BMMx9ynorftjmuHUReGGi2Oa4dRF4YaLg0WIzZ17MqRKfXOZtXC8jzB14Hxm6ScltmEjig1QjA&_nc_ohc=VorXWhxphigAX879sFk&_nc_oc=AQni7G9IWYgiOcl-dSPD2a7YXzx3TPB3p3D34TCeofptbb8EQMVUzBb90Miibb6nXv1ZRoVx-NeiyzlWsRSsbkmN&_nc_ht=scontent.fcmb3-2.fna&oh=00_AT-Izilt80j2d_JqwqdBqFNE7SoF-h3JPKHo4re_Bh7FTQ&oe=620D59C0)](https://www.linkedin.com/in/janaka531/)
 
 [![Linkedin](https://img.shields.io/badge/connect%20on-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/janaka531/)
 [![Portfolio](https://img.shields.io/badge/appwrite.io-f02e65?style=flat-square)](https://janakaedirisinghe.github.io/)
